@@ -1,5 +1,8 @@
 # AI enthusiastic
 
+### Education
+_ B. Sc. Mechanical-Electrical Engineering     Universidad de Piura, Perú (December 2023)
+
 ### Work experience
 Work experience 1
 
