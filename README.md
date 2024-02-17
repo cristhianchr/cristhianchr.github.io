@@ -1,4 +1,4 @@
-# B. SC. in Mechanical-Electrical Engineering
+# B. Sc. in Mechanical-Electrical Engineering
 
 ## Education
 **B. Sc. Mechanical-Electrical Engineering** Universidad de Piura, Perú (December 2023)
