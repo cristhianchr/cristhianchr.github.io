@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Cristhian Chavez"
+title                    : "Welcome! This is me"
 title_separator          : "-"
 name                     : &name "Cristhian Chávez Ruiz"
-description              : &description "personal description"
+description              : &description "Mechanical-Electrical engineer. One day I'll be working on robotics and mechatronics. Future MIT's Phd. Independent researcher. CEO of nothing. Future start-up founder"
 url                      : https://cristhianchr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -23,11 +23,11 @@ author:
   # Biographic information
   avatar           : "profile_pic.png"
   name             : "Cristhian A. Chávez Ruiz"
-  pronouns         : # example: "she/her"  
+  # pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Perú"
-  employer         : "Red Brick University"
-  uri              : # URL
+  employer         : "Independent researcher"
+  # url              : # URL
   email            : "cristhianchr2000@gmail.com" 
 
   # Academic websites
