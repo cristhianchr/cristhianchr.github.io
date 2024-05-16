@@ -26,7 +26,7 @@ author:
   # pronouns         : # example: "she/her"  
   bio              : "Mechanical-Electrical engineer"
   location         : "Perú"
-  employer         : "Independent researcher"
+  employer         : # Employer
   url              : # URL
   email            : "cristhianchr2000@gmail.com" 
 
@@ -59,7 +59,7 @@ author:
   lastfm           : # Username
   linkedin         : "cchavezr"
   mastodon         : # URL
-  medium           : # URL
+  medium           : "@cristhianchr2000"
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
